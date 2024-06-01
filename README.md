@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on learning and making full-stack applications using React Native and Python.<br>I am looking to collaborate on any projects tbh, I don't have much of a collaboration experience as of yet<br>I am currently learning React Native along with JS and CSS<br>Ask me about Back-end Development <br>I made a open source project that auto-generates Models and Rest APIs from a SQL database
+I am currently working on learning and making full-stack applications using React Native and Python.<br>I am looking to collaborate on projects <br>I am currently learning React Native along with JS and CSS<br>Ask me about Back-end Development <br>I made a open source project that auto-generates Models and Rest APIs from a SQL database
 
 
 # 💻 Tech Stack:
